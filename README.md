@@ -21,4 +21,5 @@
 | ------------------------------- | ---------------------------------------- | ---------------- | -------------------------- | ------------------------ | ---------------- | -------------- |
 | Keep India Smiling (Colgate)    | Any UG—including engineering             | ≤ \~₹8 lakh/year | ≥65% in Class 12           | ₹30,000/year (max 4 yrs) | Up to 4 years    | \~Dec 31, 2025 |
 | Foundation for Excellence (FFE) | B.Tech / BE (1st year)                   | ≤ ₹3 lakh/year   | ≥70% in 12th; rank in KCET | ₹40–50k/year (renewable) | Up to graduation | Aug 31, 2025   |
-| Raman Kant Munjal Foundation    | Finance/Commerce degrees (B.Com, BBA...) | ≤ ₹6 lakh/year   | ≥80% in 10th & 12th        | ₹40k–₹550k/year          | Up to 3 years    | Jul 31, 2025   |
+
+
